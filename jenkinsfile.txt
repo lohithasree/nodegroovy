@@ -1,0 +1,12 @@
+node{
+stage('build'){
+echo "it is bulding"
+
+}
+stage('test'){
+echo "it is testing"
+}
+stage('dev'){
+echo "it is developing
+}
+}
