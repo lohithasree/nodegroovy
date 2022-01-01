@@ -7,6 +7,6 @@ stage('test'){
 echo "it is testing"
 }
 stage('dev'){
-echo "it is developing
+echo "it is developing"
 }
 }
